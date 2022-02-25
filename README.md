@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://toppng.com/uploads/preview/netflix-logo-png-11593869496jqso5gxgsy.png" alt="netflix logo" width="400">
+</p>
+
 # netflix-yannick
 Netflix clone interface
 
